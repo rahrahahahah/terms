@@ -1,0 +1,2 @@
+# terms
+TOS OF KATSEYE BOT
