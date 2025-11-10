@@ -82,10 +82,3 @@ Modify or discontinue the Bot entirely.
 These Terms may be updated at any time.
 Continued use of KATSEYE after changes take effect means you accept the revised Terms.
 
-9. Contact
-
-If you have questions or concerns about these Terms or data usage, you may contact the developer through:
-
-Discord: @YourDiscordUsername
-
-Email: youremail@example.com (optional but recommended)
